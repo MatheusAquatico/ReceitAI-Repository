@@ -1,0 +1,33 @@
+.mat-table {
+  overflow: auto;
+  max-height: 600px;
+}
+
+.acao-column {
+  flex: 0 0 75px;
+}
+
+.acao-column-2 {
+  flex: 0 0 125px;
+}
+
+mat-cell {
+  text-align: center;
+}
+
+.titulo {
+  color: azure;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
+
+.texto {
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

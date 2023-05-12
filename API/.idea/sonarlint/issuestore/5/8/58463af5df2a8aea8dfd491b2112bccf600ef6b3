@@ -1,0 +1,35 @@
+
+d
+java:S5838C"NUse assertThat(actual).isNotPresent() or assertThat(actual).isEmpty() instead.(Ú²ÓË
+G
+java:S5838O",Use assertThat(actual).isNotEmpty() instead.(¤¤ù´øÿÿÿÿ
+M
+java:S5838P"2Use assertThat(actual).contains(expected) instead.(¾×µúÿÿÿÿ
+D
+java:S5838X")Use assertThat(actual).isEmpty() instead.(½ÕËùÿÿÿÿ
+G
+java:S5838e",Use assertThat(actual).isNotEmpty() instead.(¤¤ù´øÿÿÿÿ
+M
+java:S5838f"2Use assertThat(actual).contains(expected) instead.(¾×µúÿÿÿÿ
+D
+java:S5838n")Use assertThat(actual).isEmpty() instead.(½ÕËùÿÿÿÿ
+G
+java:S5838{",Use assertThat(actual).isNotEmpty() instead.(¤¤ù´øÿÿÿÿ
+M
+java:S5838|"2Use assertThat(actual).contains(expected) instead.(¾×µúÿÿÿÿ
+E
+java:S5838„")Use assertThat(actual).isEmpty() instead.(½ÕËùÿÿÿÿ
+H
+java:S5838“",Use assertThat(actual).isNotEmpty() instead.(¤¤ù´øÿÿÿÿ
+N
+java:S5838”"2Use assertThat(actual).isSameAs(expected) instead.(€Éò·ùÿÿÿÿ
+E
+java:S5838œ")Use assertThat(actual).isEmpty() instead.(½ÕËùÿÿÿÿ
+H
+java:S5838¬",Use assertThat(actual).isNotEmpty() instead.(¢Øªäûÿÿÿÿ
+E
+java:S5838µ")Use assertThat(actual).isEmpty() instead.(½ÕËùÿÿÿÿ
+C
+java:S5838Å",Use assertThat(actual).isNotEmpty() instead.(âœ„â
+?
+java:S5838Î")Use assertThat(actual).isEmpty() instead.(Üš©"

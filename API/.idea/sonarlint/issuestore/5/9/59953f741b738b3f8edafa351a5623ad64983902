@@ -1,0 +1,23 @@
+
+é
+java:S1598"ÒThis file "ProdutoController.java" should be located in "api/logap/controller" directory, not in "/home/matheusmarinho/Downloads/codes/Others/APS/Repo/ProjetoAPS/Entrega 2/API/src/main/java/api/aps/controller".(˜Ÿ¼æ
+’
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ª±°ÿÿÿÿÿ
+’
+java:S1130#"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(×è®ìøÿÿÿÿ
+
+java:S1130)"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ùÀÊì
+’
+java:S1130/"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ıùÜùÿÿÿÿ
+
+java:S11304"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(±ğÀ†
+
+java:S1130:"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(âç
+
+java:S1130@"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ìèŠ¿
+’
+java:S1130F"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‘»†ùÿÿÿÿ
+f
+java:S1128"PRemove this unused import 'org.springframework.validation.annotation.Validated'.(¸ÒÖƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
