@@ -45,7 +45,7 @@ export class ReceitasService {
 
   getReceita(listaIngredientes: string): Observable<string> {
     const OPENAI_API_KEY =
-      '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';
+      'put your key here';
     const question =
       'Me responda com um texto contendo apenas uma receita possuindo título e corpo que tenha todos os ingredientes pertencentes a lista a seguir e e que nenhum ingrediente esteja fora da lista: ' +
       listaIngredientes +
@@ -86,7 +86,7 @@ export class ReceitasService {
 
   reloadReceita(listaIngredientes: string): Observable<string> {
     const OPENAI_API_KEY =
-      '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';
+      'put your key here';
     const question =
       'Me responda com um texto contendo apenas uma receita diferente da anterior possuindo título e corpo que tenha todos os ingredientes pertencentes a lista a seguir e e que nenhum ingrediente esteja fora da lista: ' +
       listaIngredientes +
